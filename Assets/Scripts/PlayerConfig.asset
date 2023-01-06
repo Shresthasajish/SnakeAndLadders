@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cf35805d07cc0b4d903620944f29869, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  player1: {fileID: 3480996696408223252, guid: ef402de5c96febc46ad334023cf495d8, type: 3}
+  player2: {fileID: 6686063912893699725, guid: d425d32dfeda8c64d907769a18a9fdd3, type: 3}
+  player3: {fileID: 2767847892279915149, guid: f971944a549298a498bb5b2a520734fd, type: 3}
+  player4: {fileID: 5083196215499415432, guid: 870912d7ff7d9a648a5df37f5d48b7c0, type: 3}
+  gamePath: {fileID: 1684992906044215926, guid: 407f953528ab66344890e08c07ced598, type: 3}
+  numberOfPlayers: 4

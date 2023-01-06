@@ -1,0 +1,4 @@
+repository "SnakeAndLadders@sajishrestha@cloud"
+  path "/"
+    br "/main"
+    co "/main"
